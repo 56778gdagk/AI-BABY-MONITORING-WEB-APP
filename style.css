@@ -1,0 +1,28 @@
+
+.heading
+{
+font-size: 23px;
+margin: 0;
+width: 100%;
+margin: 0px;
+}
+
+.head{
+    display: inline-block;
+}
+
+#status, #number_of_object, #start_model
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+    margin-top: 40px;
+}
